@@ -4,8 +4,7 @@ import plotly.express as px
 
 # Create Localhost to host website
 st.set_page_config(page_title='UHH BPS')
-st.header('Ini adalah Header')
-st.subheader('Ini adalah Subheader')
+st.header('Aplikasi Visualisasi Data IPM Provinsi Sumbar 2022')
 
 excel_file = 'UHH.xlsx'
 sheet_name = 'DATA'
