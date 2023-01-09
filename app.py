@@ -1,6 +1,6 @@
 import pandas as pd
 import streamlit as st
-# import plotly.express as px
+import plotly.express as px
 
 # Create Localhost to host website
 st.set_page_config(page_title='UHH BPS')
